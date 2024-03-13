@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+I earned my Doctorate in Machine Learning from Sorbonne Université at the end of 2023.
+I was working within the departement of statistics (LPSM) under the supervision of Claire Boyer (Sorbonne-Université) and Erwan Scornet (Ecole Polytechnique - Sorbonne Université).
 
-I am currently undertaking my second year of Ph.D in Machine Learning at Sorbonne Université. 
-I work within the departement of statistics (LPSM) under the supervision of Claire Boyer (Sorbonne-Université) and Erwan Scornet (Ecole Polytechnique).
+My research was focused on the theoretical and practical aspects of Random Forests, Neural networks and their intersections. 
 
-My research is focused on the theoretical aspects of ML. I am particularly interested in studying Neural Networks from an interpretability perspective. More generally, I am very enthusiastic about deep neural networks seen as either mathematical objects or practical tools.
-
+More recently, I have been very interested in the applications of Deep Learning, especially LLMs applied to NLP.
 
 Publications
 ======
@@ -32,7 +32,7 @@ _Sparse tree-based initialization for neural networks_, Patrick Lutz, Ludovic Ar
 Teaching
 ======
 
-Below is a list of the few courses I taught at Sorbonne Université during my Ph.D from October 2020 to May 2022.
+Below is a list of the few courses I taught at Sorbonne Université during my Ph.D (2020-2023):
 
 - **Probability** -  Last year of B.S in mathematics.
 
@@ -41,6 +41,7 @@ Below is a list of the few courses I taught at Sorbonne Université during my Ph
 - **Linear Models** - First year of M.S in mathematics (taught at ISUP)
 
 
-CV
+CV - Git
 ======
-You can download my cv here: [link](https://github.com/Ludovic-arnould/Ludovic-arnould.github.io/tree/master/files/CV_LA.pdf)
+You can download my cv here: [link](https://github.com/LudwichArnould/Larnould.github.io/blob/master/files/CV_english_2024.pdf)
+And a link to my github: https://github.com/LudwichArnould/
