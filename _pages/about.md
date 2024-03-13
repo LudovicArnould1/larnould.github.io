@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I earned my Doctorate in Machine Learning from Sorbonne Université at the end of 2023.
-I was working within the departement of statistics (LPSM) under the supervision of Claire Boyer (Sorbonne-Université) and Erwan Scornet (Ecole Polytechnique - Sorbonne Université).
 
+I was working within the departement of statistics (LPSM) under the supervision of Claire Boyer (Sorbonne-Université) and Erwan Scornet (Ecole Polytechnique - Sorbonne Université).
 My research was focused on the theoretical and practical aspects of Random Forests, Neural networks and their intersections. 
 
 More recently, I have been very interested in the applications of Deep Learning, especially LLMs applied to NLP.
@@ -44,4 +44,5 @@ Below is a list of the few courses I taught at Sorbonne Université during my Ph
 CV - Git
 ======
 You can download my cv here: [link](https://github.com/LudwichArnould/Larnould.github.io/blob/master/files/CV_english_2024.pdf)
+
 And a link to my github: https://github.com/LudwichArnould/
