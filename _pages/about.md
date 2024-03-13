@@ -45,4 +45,4 @@ CV - Git
 ======
 You can download my cv here: [link](https://github.com/LudovicArnould1/Larnould.github.io/blob/master/files/CV_english_2024.pdf)
 
-And a link to my github: https://github.com/LudovicArnould1/
+And a link to my github: [link](https://github.com/LudovicArnould1/)
